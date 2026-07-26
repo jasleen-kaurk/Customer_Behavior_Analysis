@@ -1,18 +1,19 @@
-🛒 Customer Shopping Behavior Analysis
 
-> An end-to-end Data Analytics project using Python, PostgreSQL, and Power BI to analyze customer purchasing behavior and generate actionable business insights.
+# 🛒 Customer Shopping Behavior Analysis
+
+> **An end-to-end Data Analytics project using Python, PostgreSQL, and Power BI to analyze customer purchasing behavior and generate actionable business insights.**
 
 ---
 
-📖 Overview
+## 📖 Overview
 
-This project explores customer shopping behavior using transactional data from 3,900 purchases. The analysis focuses on understanding customer demographics, purchasing habits, product preferences, subscription behavior, and revenue trends.
+This project explores customer shopping behavior using transactional data from **3,900 purchases**. The analysis focuses on understanding customer demographics, purchasing habits, product preferences, subscription behavior, and revenue trends.
 
 The project follows a complete data analytics pipeline—from data cleaning and preprocessing to SQL-based business analysis and interactive dashboard creation.
 
 ---
 
- 🎯 Objectives
+## 🎯 Objectives
 
 * Clean and preprocess raw shopping data.
 * Perform Exploratory Data Analysis (EDA).
@@ -23,23 +24,23 @@ The project follows a complete data analytics pipeline—from data cleaning and 
 
 ---
 
-📂 Dataset
+## 📂 Dataset
 
-Dataset Size
+**Dataset Size**
 
- 📌 Records: **3,900
- 📌 Features: 18 Columns
+* 📌 Records: **3,900**
+* 📌 Features: **18 Columns**
 
-Dataset Includes
+### Dataset Includes
 
-Customer Demographics
+* Customer Demographics
 
   * Age
   * Gender
   * Location
   * Subscription Status
 
- Purchase Information
+* Purchase Information
 
   * Item Purchased
   * Category
@@ -48,7 +49,7 @@ Customer Demographics
   * Size
   * Color
 
- Shopping Behavior
+* Shopping Behavior
 
   * Discount Applied
   * Promo Code Used
@@ -59,7 +60,7 @@ Customer Demographics
 
 ---
 
-🛠️ Technologies Used
+# 🛠️ Technologies Used
 
 | Tool             | Purpose                   |
 | ---------------- | ------------------------- |
@@ -73,9 +74,9 @@ Customer Demographics
 
 ---
 
- 📊 Project Workflow
+# 📊 Project Workflow
 
- 1️⃣ Data Cleaning (Python)
+## 1️⃣ Data Cleaning (Python)
 
 * Imported dataset using Pandas.
 * Explored dataset structure.
@@ -91,7 +92,7 @@ Customer Demographics
 
 ---
 
- 2️⃣ SQL Business Analysis
+## 2️⃣ SQL Business Analysis
 
 The following analyses were performed:
 
@@ -108,7 +109,7 @@ The following analyses were performed:
 
 ---
 
-3️⃣ Power BI Dashboard
+## 3️⃣ Power BI Dashboard
 
 The dashboard includes:
 
@@ -123,7 +124,7 @@ The dashboard includes:
 
 ---
 
-📈 Key Business Insights
+# 📈 Key Business Insights
 
 * Customer purchasing behavior differs across demographic groups.
 * Subscription status influences spending patterns.
@@ -134,7 +135,7 @@ The dashboard includes:
 
 ---
 
-💡 Business Recommendations
+# 💡 Business Recommendations
 
 * Increase customer loyalty rewards.
 * Promote subscription-based benefits.
@@ -144,9 +145,10 @@ The dashboard includes:
 
 ---
 
- 📁 Project Structure
+# 📁 Project Structure
 
 ```text
+│
 Customer-Shopping-Behavior-Analysis/
 │
 ├── 📂 Dataset/
@@ -169,7 +171,7 @@ Customer-Shopping-Behavior-Analysis/
 
 ---
 
-🚀 Skills Demonstrated
+# 🚀 Skills Demonstrated
 
 * Data Cleaning
 * Data Wrangling
@@ -184,13 +186,13 @@ Customer-Shopping-Behavior-Analysis/
 
 ---
 
-📌 Results
+# 📌 Results
 
 This project successfully transformed raw customer shopping data into meaningful business insights using Python, PostgreSQL, and Power BI. The findings help businesses better understand customer behavior, improve marketing strategies, and support data-driven decision-making.
 
 ---
 
-⭐ Repository Features
+# ⭐ Repository Features
 
 ✔ End-to-End Data Analytics Project
 
@@ -208,4 +210,8 @@ This project successfully transformed raw customer shopping data into meaningful
 
 ---
 
+
 **Made with ❤️ using Python, PostgreSQL & Power BI**
+
+
+ 
