@@ -39,8 +39,6 @@ Customer Demographics
   * Location
   * Subscription Status
 
-
- 3
  Purchase Information
 
   * Item Purchased
